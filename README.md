@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m @St1lsS</h1>
-- 🌍 I'm based in Saint-Petersburg
+- <p>🌍 I'm based in Saint-Petersburg<p>
 - 👀 I’m interested in programming, sports and reading literature
 - 📖 I’m learning Python, JavaScript, HTML and CSS, as well as the angular framework
 - 👥 I'm open to collaborating 
